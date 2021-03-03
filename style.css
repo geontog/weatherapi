@@ -1,0 +1,33 @@
+body {
+  background-color: rgba(66, 238, 244, 0.3);
+}
+
+.topAndBottomMargin {
+  margin: 20px auto;
+}
+
+#weatherImg {
+  width: 50%;
+}
+
+.needsAligning {
+  text-align: center;
+}
+
+#cityerror {
+  margin-top: 25%;
+}
+
+#jumbotron {
+  padding: 15px 32px;
+}
+
+#suncard {
+  width: 18rem;
+  float: left;
+}
+
+#humiditycard {
+  width: 19.7rem;
+  float: right;
+}
